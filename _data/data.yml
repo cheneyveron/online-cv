@@ -82,43 +82,71 @@ career-profile:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Senior Engineer
+        time: 2020 - Present
+        company: Trend Micro. Shenzhen, China & Ottawa, Canada
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Achievements:
+            - Take part in Sprints’ feature design, implementation, testing, code review, and RCA monthly.
+            - Responsible services: policy (Spring.java, owner), policy-match (Spring.java, owner), controller (Spring.java, owner), frontend (React.js, backup), BFF (Nest.js, backup).
+            - Helped our team transform from VM to Kubernetes. Reduced build time from 20mins to 2mins.
+            - Solved several performance issues. Reduced DB DTU from over 70% to under 10%.
+            - Prevented out-of-memory and critical data loss in policy-match. Some caches acting as DB had used up to 95% by the time monitor was added.
+            - Recruited talents and helped train interns for the team.
+            
+          Highlighted Features:
+            - Multiple organization: One CAS account can provision multiple Office 365 services.
+            - Outbound and Inline Mail Protection: Gateway solution to protect Exchange customers.
+            - Migrate SharePoint and OneDrive from Service Account to Graph Token.
+            - Refactor old Angular.js-based frontend to React.js and Tonic-based.
+            - Vision One Email Account Inventory development and integration with CAS.
+      - role: Java Developer
+        time: 2018 - 2020
+        company: China Merchants Financial Group Technical. Shenzhen, China
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            Participated in the full life cycle of software, including requirement analysis, design, development, and
+            maintenance. Helped team members solve technical problems. Dealt with complex business scenarios.
+            Troubleshot and resolved performance issues.
+            
+            Highlighted Projects:
+            
+            1. CMFG Performance Management System.
+            
+            Technical Stack: Spring Boot, MyBatis, MySQL DB, Redis for backend. React.js for frontend.
+            
+            Roles and responsibilities:
+            - Developed assessment relationship generation and setting function
+            - Optimized the score calculating function from 3 minutes to 20 seconds.
+            - Used Redis as a distributed lock to prevent concurrent calculation of scores.
+            - Developed frontend using React.js for file and Excel template management.
+            
+            2. CMFG Knowledge Management System.
+            
+            Technical Stack: Spring, Struts, Hibernate, Oracle DB. jQuery for frontend.
+            
+            Roles and responsibilities:
+            - Scheduled stock price capture using XXL-Job based on Quartz, OKHTTP, and E-Charts.
+            - Solved performance issue when article number reached 200,000 by replacing `or` with `union`.
+            - System maintenance.
+      - role: Technical Director
+        time: 2017 - 2018
+        company: Qingdao Puhua Vision. Qingdao, China
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            Entrepreneurship during college. Responsible for negotiation and development of various projects of
+            the company. Responsible for Front and back-end technology selection, development, deployment, and
+            maintenance of various projects. Solved technical difficulties for the team. Arranged staff training.
+            Promoted the company to become Mengniu's special software supplier.
+            
+            Highlighted Projects:
+            
+            CIRP Conference on Surface Integrity 2018 Website.
+            
+            Technical Stack: Laravel on PHP, MySQL for backend. Vue.js for frontend.
+            
+            Roles and responsibilities:
+            - Docked with Stripe and Payoneer so that customers could pay online in multiple ways.
+            - Constructed frontend interface using Vue.js
+            - Developed Paper submission and review functions.
 
 certifications:
       title: Certifications
