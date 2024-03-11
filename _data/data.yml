@@ -36,7 +36,7 @@ sidebar:
           level: Native
           
         - idiom: English
-          level: Professional
+          level: Professional (IELTS 8.0)
 
     interests:
       title: Interests
@@ -58,13 +58,13 @@ skills:
         level: 98%
 
       - name: Golang & Gin
-        level: 95%
+        level: 80%
 
       - name: Python 
-        level: 95%
+        level: 90%
 
       - name: Javascript & Vue.js & React.js
-        level: 80%
+        level: 85%
 
       - name: HTML5 & CSS
         level: 95%
@@ -100,6 +100,7 @@ experiences:
             - Migrate SharePoint and OneDrive from Service Account to Graph Token.
             - Refactor old Angular.js-based frontend to React.js and Tonic-based.
             - Vision One Email Account Inventory development and integration with CAS.
+
       - role: Java Developer
         time: 2018 - 2020
         company: China Merchants Financial Group Technical. Shenzhen, China
@@ -128,6 +129,7 @@ experiences:
             - Scheduled stock price capture using XXL-Job based on Quartz, OKHTTP, and E-Charts.
             - Solved performance issue when article number reached 200,000 by replacing `or` with `union`.
             - System maintenance.
+
       - role: Technical Director
         time: 2017 - 2018
         company: Qingdao Puhua Vision. Qingdao, China
@@ -192,9 +194,7 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      These are my hobby 
     assignments:
       - title: Velocity
         link: "#hook"
@@ -219,21 +219,16 @@ projects:
 oss:
     title: OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+     Focused on Hackintosh when I was in univerisity. However that hobby gradually seized after I could afford 
+     a real Mac.
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: clover-x79-e5-2670-gtx650
+        link: "https://github.com/cheneyveron/clover-x79-e5-2670-gtx650"
+        tagline: "291 Stars. Solved several issues in DSDT in intel X79 platform."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: hackintosh-clover-z390-aorus-pro-wifi-9700k-rx580
+        link: "https://github.com/cheneyveron/hackintosh-clover-z390-aorus-pro-wifi-9700k-rx580"
+        tagline: "140 Stars. A working hackintosh config for my mom in Z390 platform."
 
 education:
     title: Education
@@ -247,6 +242,7 @@ education:
             - Operating System
             - Computer Network
             - Data Structure and Algorithm
+            - Compilation Principle
 
 #publications:
 #    title: Publications
