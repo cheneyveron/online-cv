@@ -7,45 +7,45 @@ sidebar:
   about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Cheney Wang
-    tagline: Staff Software Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Cheney Wang
+  tagline: Staff Software Developer
+  avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: i@cheney.wang
-    timezone: Eastern Time, Ottawa, Canada
-    citizenship:
-    website: https://cheney.wang
-    linkedin: cheneywang
-    xing: 
-    github: cheneyveron
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: 
+  # Sidebar links
+  email: i@cheney.wang
+  timezone: Eastern Time, Ottawa, Canada
+  citizenship:
+  website: https://cheney.wang
+  linkedin: cheneywang
+  xing: 
+  github: cheneyveron
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter: 
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  pdf: 
 
-    languages:
-      title: Languages
-      info:
-        - idiom: Chinese
-          level: Native
-          
-        - idiom: English
-          level: Professional, IELTS 8.0
+  languages:
+    title: Languages
+    info:
+      - idiom: Chinese
+        level: Native
+        
+      - idiom: English
+        level: Professional, IELTS 8.0
 
-    interests:
-      title: Interests
-      info:
-        - item: Skiing
-          link:
+  interests:
+    title: Interests
+    info:
+      - item: Skiing
+        link:
 
-        - item: PC Gaming
-          link:
+      - item: PC Gaming
+        link:
 
 skills:
     title: Skills &amp; Abilities
